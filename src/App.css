@@ -1,9 +1,9 @@
 :root{
-  --mainBlue: #2a2a72;
-  --lightBlue: #009ffd;
-  --mainWhite: #f3f3f3;
-  --mainDark: #232528;
-  --mainYellow: #ffa400;
+  --mainBlue: #1066AD;
+  --lightBlue: #4D8DD2;
+  --mainWhite: #E4E3E3;
+  --mainDark: #130C00;
+  --mainYellow: #FFDC6A;
 }
 body{
   font-family: 'Roboto', sans-serif !important;
